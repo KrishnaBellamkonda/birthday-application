@@ -7,6 +7,14 @@
 * [birthday-application-data-preprocessing](https://github.com/KrishnaBellamkonda/birthday-application-data-processing)
 
 ### Table of Contents
+* [Description](#description)
+* [Preprocessing Repository](#preprocessing-repository )
+* [Setup](#setup)
+* [Available Scripts](#available-scripts)
+* [Technology](#technology)
+* [Functionality](#functionality)
+* [App in Action](#app-in-action)
+* [Sources](#sources)
 
 ### Setup 
 * Clone the repository and replace the json_data folder by the one created using the preprocessing script (link above)
