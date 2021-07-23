@@ -36,6 +36,11 @@ A ReactJS application is built using `npx create-react-app`. This react applicat
 
 
 ### App in Action
+* Dark-mode 
+<img src="./images/dark-mode.png"><img/>
+* Light-mode
+* Upcoming Birthdays section 
+* Quiz Section 
 
 
 ### Sources 
